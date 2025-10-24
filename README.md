@@ -1,4 +1,4 @@
-# TicketFlow - Vue.js Implementation
+# FlwxiTicket - Vue.js Implementation
 
 A robust ticket management web application built with Vue.js.
 
@@ -60,16 +60,12 @@ Ticket CRUD: Create, read, update, delete tickets with validation
 User Isolation: Each user sees only their own tickets
 
 Responsive Design: Works on mobile, tablet, and desktop
-
 Form Validation: Real-time validation with error messages
-
 Toast Notifications: Success and error feedback
 
 Data Storage
 User data and tickets are stored in browser localStorage
-
 Each user has isolated data - no sharing between accounts
-
 Data persists across browser sessions
 
 Accessibility
